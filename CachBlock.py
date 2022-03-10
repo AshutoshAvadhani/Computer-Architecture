@@ -5,3 +5,5 @@ class Create_Block:
         self.tagBit = ""
         self.timeStamp = -1
         self.dirtyBit = False
+        self.IsValidBit = True
+        self.TagAddress = ""
