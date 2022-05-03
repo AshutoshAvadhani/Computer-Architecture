@@ -1,0 +1,32 @@
+Set   0 : 200100   D 3d81a5   D
+Set   1 : 200100   D 3d81a4   D
+Set   2 : 200850   D 200104
+Set   3 : 200191   D 3d81a4   D
+Set   4 : 3d81a4   D 2001e1   D
+Set   5 : 200191     200100   D
+Set   6 : 200102   D 2008bc
+Set   7 : 200231     3d81a6
+Set   8 : 3d81a5     3d81a4   D
+Set   9 : 200700     200bc6   D
+Set   10 : 20022f   D 3d81a3   D
+Set   11 : 3d81a4   D 200bc6
+Set   12 : 200191     3d81a4   D
+Set   13 : 200191     3d81a3   D
+Set   14 : 200802   D 20022e   D
+Set   15 : 3d81a4   D 2001e0   D
+Set   16 : 200102   D 3d81a6
+Set   17 : 3d81a3   D 200192
+Set   18 : 200192     3d81a2
+Set   19 : 3d81a3   D 200102   D
+Set   20 : 200894   D 3d81a2
+Set   21 : 20086e   D 20022d
+Set   22 : 200bc6     200103   D
+Set   23 : 200103     3d81a3
+Set   24 : 3d81a7     3d81a3
+Set   25 : 200103     200775   D
+Set   26 : 200893     20022d
+Set   27 : 2006cc     200103
+Set   28 : 3d81a5     3d81a7   D
+Set   29 : 200736   D 200194
+Set   30 : 200190     200bb8
+Set   31 : 3d819b   D 200191
