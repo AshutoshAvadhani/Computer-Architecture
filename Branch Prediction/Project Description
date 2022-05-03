@@ -1,0 +1,5 @@
+The project contains following folders and files: - 
+  1) Code Folder contains the code for different branch prediction files.
+  2) Trace Folder contains the trace file required for executing the code.
+  3) Instruction file contains the background and the logic flow required for designing the project.
+  4) ReadMe file contains the instruction on how to execute the file.
